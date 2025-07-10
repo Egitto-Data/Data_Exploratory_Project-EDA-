@@ -1,4 +1,4 @@
-🚀 Project Purpose
+## 🛠️ Project Purpose
 The main goal of this project is to perform exploratory data analysis (EDA) using SQL Server. This includes identifying patterns, trends, and metrics that can support business intelligence, content strategy, and data-driven decisions.
 
 ## Objectives
