@@ -1,5 +1,5 @@
-# Data_Exploratory_Project-EDA-
-Small project exploring Data to gain an over view about the whole business
+🚀 Project Purpose
+The main goal of this project is to perform exploratory data analysis (EDA) using SQL Server. This includes identifying patterns, trends, and metrics that can support business intelligence, content strategy, and data-driven decisions.
 
 ## Objectives
 + Explore database metadata
